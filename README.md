@@ -1,4 +1,4 @@
-### Caso 2: Análisis de QTL
+### Análisis de QTL
 
 Este repositorio contiene códigos de programación en lenguaje R para identificar QTLs asociados al fenotipo de plantas.
 
